@@ -1,0 +1,28 @@
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem;
+    background-color: #f1f1f1;
+}
+
+.navbar-left {
+    flex: 1;
+}
+
+.navbar-name {
+    font-size: 1.2rem;
+    font-weight: bold;
+}
+
+.navbar-right {
+    flex: 1;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.navbar-author-image {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+}

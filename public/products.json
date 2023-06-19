@@ -1,0 +1,54 @@
+[
+    {
+        "id": "19201011001",
+        "blog_title": "Front-End Development",
+        "author_name": "Farhana Reza",
+        "author_img": "https://images.unsplash.com/photo-1533689476487-034f57831a58?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2071&q=80",
+        "reading_time": 12,
+        "publish_date": "Feb 16 (7 Days ago)",
+        "cover_img": "https://img.freepik.com/free-vector/code-testing-cartoon-banner-functional-test-methodology-programming-search-errors-bugs-website-platform-development-dashboard-usability-optimization-computer-pc-vector-illustration_107791-3766.jpg?w=996&t=st=1686421608~exp=1686422208~hmac=dd2fa43cf551106186e23d632f44096e914cffa97ec65d1cf7cc233b3401c62c"
+        
+    },
+    {
+        "id": "19201011002",
+        "blog_title": "A Complete Guide for AI",
+        "author_name": "Amir Ali",
+        "author_img": "https://images.unsplash.com/photo-1570295999919-56ceb5ecca61?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=580&q=80",
+        "reading_time": 20,
+        "publish_date": "Mar 13 (5 Days ago)",
+        "cover_img": "https://img.freepik.com/free-vector/laptop-with-program-code-isometric-icon-software-development-programming-applications-dark-neon_39422-971.jpg?w=740&t=st=1686423598~exp=1686424198~hmac=52c68e5d3610d73c0b85d625e4f4465826274add483564cbc1bc96ad1db77ef6"
+
+    },
+    {
+        "id": "19201011003",
+        "blog_title": "React Project Ideas",
+        "author_name": "Kaniz Rokeya",
+        "author_img": "https://images.unsplash.com/photo-1487412720507-e7ab37603c6f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1171&q=80",
+        "reading_time": 10,
+        "publish_date": "Apr 09 (3 Days ago)",
+        "cover_img": "https://img.freepik.com/free-vector/app-development-concept-with-programming-languages_23-2148688949.jpg?w=740&t=st=1686423625~exp=1686424225~hmac=5dc18ac7982f298ca2016a3d30d3dc23f74eb6f9a8fca3b2324eeafdaf6e8b3c"
+
+    },
+    {
+        "id": "19201011004",
+        "blog_title": "Starting of App Development",
+        "author_name": "SRK Ahmed",
+        "author_img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=580&q=80",
+        "reading_time": 13,
+        "publish_date": "Sep 15 (6 Days ago)",
+        "cover_img": "https://img.freepik.com/free-vector/app-development-banner_33099-1720.jpg?w=740&t=st=1686423698~exp=1686424298~hmac=5152550e7b2b268b178e4dbcb051df7e9d52d84469ea1be71276ed8f64d7b64b"
+
+    },
+    {
+        "id": "19201011005",
+        "blog_title": "The Threats of Chat GPT",
+        "author_name": "SRK Ahmed",
+        "author_img": "https://images.unsplash.com/photo-1621592484082-2d05b1290d7a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+        "reading_time": 15,
+        "publish_date": "Sep 19 (10 Days ago)",
+        "cover_img": "https://img.freepik.com/free-vector/scientist-near-computer-during-testing-robots-droids-laboratory-isometric-composition_1284-29184.jpg?w=740&t=st=1686423651~exp=1686424251~hmac=ab39ecd57747a15c6a9cf5404a01212ac3be06ac1a7409ac6be4153ddbe93d04"
+
+    }
+]
+
+
